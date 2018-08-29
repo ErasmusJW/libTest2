@@ -1,0 +1,28 @@
+{
+  "name": "libTest2",
+  "keywords": "test2",
+  "description": "TestLib2 For PlatformIO",
+
+  "authors":
+  [
+    {
+      "name": "Jacques Erasmus",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Zeppelin15/libTest2.git"
+  },
+  "version": "1.0.0",
+  "frameworks": "*",
+  "platforms": "*",
+  "dependencies":
+  [
+      {
+          "name": "Adafruit_GFX"
+
+      }
+  ]
+}
