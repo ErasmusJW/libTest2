@@ -1,6 +1,4 @@
 {
     "name" : "libTest2",
-
-    },
     "macros": ["LIBTEST_2MACRO=\"Lib test macro not overide\""]
 }
